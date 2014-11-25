@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="svg4364" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="63px" height="13.5px" viewBox="-274 390.5 63 13.5" enable-background="new -274 390.5 63 13.5" xml:space="preserve">
+<g id="layer1" transform="translate(0,-1038.862)">
+</g>
+<g id="pcb">
+	<g id="copper0">
+		<path id="connector1pin" fill="none" stroke="#F6CA34" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="
+			M-262.8,395c0,1.2-1,2.2-2.2,2.2s-2.2-1-2.2-2.2s1-2.2,2.2-2.2S-262.8,393.8-262.8,395z"/>
+		<path id="connector2pin" fill="none" stroke="#F6CA34" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="
+			M-253.8,395c0,1.2-1,2.2-2.2,2.2s-2.2-1-2.2-2.2s1-2.2,2.2-2.2S-253.8,393.8-253.8,395z"/>
+		<path id="connector3pin" fill="none" stroke="#F6CA34" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="
+			M-244.8,395c0,1.2-1,2.2-2.2,2.2s-2.2-1-2.2-2.2s1-2.2,2.2-2.2S-244.8,393.8-244.8,395z"/>
+		<path id="connector4pin" fill="none" stroke="#F6CA34" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="
+			M-235.8,395c0,1.2-1,2.2-2.2,2.2s-2.2-1-2.2-2.2s1-2.2,2.2-2.2S-235.8,393.8-235.8,395z"/>
+		<path id="connector5pin" fill="none" stroke="#F6CA34" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="
+			M-226.7,395c0,1.2-1,2.2-2.2,2.2c-1.2,0-2.2-1-2.2-2.2s1-2.2,2.2-2.2C-227.7,392.8-226.7,393.8-226.7,395z"/>
+		<path id="connector6pin" fill="none" stroke="#F6CA34" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="
+			M-217.7,395c0,1.2-1,2.2-2.2,2.2c-1.2,0-2.2-1-2.2-2.2s1-2.2,2.2-2.2C-218.7,392.8-217.7,393.8-217.7,395z"/>
+	</g>
+	<g id="silkscreen">
+		<g id="text8757" transform="translate(0,-11.8004)" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+			<g id="tspan8759">
+				<text id="tspan12480" transform="matrix(1 0 0 1 -268.7957 413.45)" fill="#FFFFFF" font-family="'OCRA'" font-size="3.5">GND</text>
+			</g>
+		</g>
+		<g id="text8761" transform="translate(0,-23.0004)" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+			<g id="tspan8763">
+				<text id="tspan12478" transform="matrix(1 0 0 1 -258.5305 424.7)" fill="#FFFFFF" font-family="'OCRA'" font-size="3.5">DI</text>
+			</g>
+		</g>
+		<g id="text8765" transform="translate(0,-11.8002)" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+			<g id="tspan8767">
+				<text id="tspan12476" transform="matrix(1 0 0 1 -250.7957 413.45)" fill="#FFFFFF" font-family="'OCRA'" font-size="3.5">+5V</text>
+			</g>
+		</g>
+		<rect id="rect8769" x="-273.5" y="390.9" fill="none" stroke="#FFFFFF" stroke-width="0.2525" width="62.1" height="12.6"/>
+		<g id="g6732" transform="translate(27,-11.8004)" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+			<g id="text6734">
+				<text id="tspan12474" transform="matrix(1 0 0 1 -268.7957 413.45)" fill="#FFFFFF" font-family="'OCRA'" font-size="3.5">+5V</text>
+			</g>
+		</g>
+		<g id="g4611" transform="translate(27.015635,-23.0004)" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+			<g id="text4613">
+				<text id="tspan4615" transform="matrix(1 0 0 1 -258.5305 424.7)" fill="#FFFFFF" font-family="'OCRA'" font-size="3.5">DO</text>
+			</g>
+		</g>
+		<g id="g4617" transform="translate(27.015635,-11.8002)" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+			<g id="text4619">
+				<text id="tspan4621" transform="matrix(1 0 0 1 -250.7957 413.45)" fill="#FFFFFF" font-family="'OCRA'" font-size="3.5">GND</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
