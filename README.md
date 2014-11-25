@@ -1,4 +1,4 @@
-A Fritzing part for the Pololu WS2812B 60/m LED Strip: <http://www.pololu.com/product/2549>
+A [Fritzing](http://fritzing.org/) part for the [Pololu WS2812B 60/m LED Strip](http://www.pololu.com/product/2549).
 
 ![Pololu WS2812B 60/m LED Strip:](./design/breadboard.svg)
 
